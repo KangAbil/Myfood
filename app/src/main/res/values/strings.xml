@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Makananku</string>
+    <string name="title_activity_nav_draw">NavDraw</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patmenu">Patmenu</string>
+    <string name="title_activity_menpil">Menpil</string>
+    <string name="endingbutton">Mohon tunggu sebentar Pesanan anda akan segera diantarkan. Terimakasih</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myfood">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/makananku"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/makananku"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Listminuman"></activity>
+        <activity android:name=".Listcepatsaji" />
+        <activity android:name=".Listsehat" />
+        <activity android:name=".AksesBayar" />
+        <activity android:name=".ListMaem" />
+        <activity
+            android:name=".Patmenu"
+            android:label="@string/title_activity_patmenu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NavDraw"
+            android:label="@string/title_activity_nav_draw"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Daftar" />
+        <activity android:name=".Login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
